@@ -1,0 +1,20 @@
+# cspell-tools: keep-case no-split
+
+Delco
+Dexron
+EVAP
+Fleetside
+Flowmaster
+GVWR
+Herko
+HVAC
+JEGS
+PTFE
+Silverado
+Stepside
+Vortec
+Walbro
+boomhauer
+crossmember
+squarebody
+stationwagon

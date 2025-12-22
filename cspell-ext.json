@@ -1,0 +1,45 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "ignorePaths": [
+    "**/.cspell/*"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "path": "./software/applications.txt",
+      "name": "softwareApplications",
+      "description": "Software applications dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/os-distro-names.txt",
+      "name": "osDistroNames",
+      "description": "Operating systems and distribution names",
+      "addWords": false
+    },
+    {
+      "path": "./software/package-managers.xt",
+      "name": "packageManagers",
+      "description": "Software package managers dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/programming-languages.txt",
+      "name": "programmingLanguages",
+      "description": "Software programming languages dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./transportation/aircraft.txt",
+      "name": "aircraft",
+      "description": "Aircraft dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./transportation/automotive.txt",
+      "name": "automotive",
+      "description": "Automotive dictionary",
+      "addWords": false
+    }
+  ]
+}
