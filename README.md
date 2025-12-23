@@ -11,7 +11,7 @@ Once you've added the submodule you will configure your cspell configuration fil
 ```json
     {
         "import": [
-            "./.cspell/cspell.json"
+            "./.cspell/cspell-ext.json"
         ]
     }
 ```
