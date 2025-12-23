@@ -6,9 +6,45 @@
   ],
   "dictionaryDefinitions": [
     {
+      "path": "./general/filetypes-extended.txt",
+      "name": "filetypes-ext",
+      "description": "Extended file types dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./general/government-terms.txt",
+      "name": "governmentTerms",
+      "description": "Government terms dictionary",
+      "addWords": false
+    },
+    {
       "path": "./software/applications.txt",
       "name": "softwareApplications",
       "description": "Software applications dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/apps-gitlab.txt",
+      "name": "applicationsGitlab",
+      "description": "GitLab application dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/apps-homeassistant.txt",
+      "name": "applicationsHomeAssistant",
+      "description": "Home Assistant application dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/containers.txt",
+      "name": "dockerContainers",
+      "description": "Docker container terms",
+      "addWords": false
+    },
+    {
+      "path": "./software/docker-compose.txt",
+      "name": "dockerCompose",
+      "description": "Docker compose terms",
       "addWords": false
     },
     {

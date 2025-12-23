@@ -1,0 +1,7 @@
+# cspell-tools: keep-case no-split
+
+ECCN
+EAR99
+GPDR
+Sarbanes
+Sarbanes-Oxley

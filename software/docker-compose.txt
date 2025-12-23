@@ -1,0 +1,17 @@
+# cspell-tools: keep-case no-split
+
+PGID
+PUID
+SYS_RAWIO
+dbus
+healthcheck
+jdbc
+localtime
+localtimezone
+nfsvers
+noatime
+retrans
+rootfs
+sysfs
+timeo
+tlsskipverify

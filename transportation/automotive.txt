@@ -1,20 +1,33 @@
 # cspell-tools: keep-case no-split
 
+Boomhauer
+Borgeson
+Camaro
+Chevelle
 Delco
 Dexron
+Doraville
 EVAP
 Fleetside
 Flowmaster
 GVWR
 Herko
 HVAC
+Hyperspark
+Intellitronix
 JEGS
+Monomax
+Multifilament
+Powerglide
 PTFE
 Silverado
 Stepside
+Subframe
+Sylvania
+Tonawanda
 Vortec
 Walbro
-boomhauer
 crossmember
-squarebody
 stationwagon
+subframe
+wideband
