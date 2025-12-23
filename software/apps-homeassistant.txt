@@ -1,0 +1,3 @@
+automations
+homeassistant
+usgs

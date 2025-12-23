@@ -1,9 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "version": "0.2",
-  "ignorePaths": [
-    "**/.cspell/*"
-  ],
+  "ignorePaths": ["**/.cspell/*"],
   "dictionaryDefinitions": [
     {
       "path": "./general/filetypes-extended.txt",
@@ -33,6 +31,18 @@
       "path": "./software/apps-homeassistant.txt",
       "name": "applicationsHomeAssistant",
       "description": "Home Assistant application dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/apps-homepage.txt",
+      "name": "applicationsHomepage",
+      "description": "Homepage application dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/apps-mediawiki.txt",
+      "name": "applicationsMediaWiki",
+      "description": "MediaWiki application dictionary",
       "addWords": false
     },
     {
@@ -66,15 +76,15 @@
       "addWords": false
     },
     {
-      "path": "./transportation/aircraft.txt",
-      "name": "aircraft",
-      "description": "Aircraft dictionary",
-      "addWords": false
-    },
-    {
       "path": "./transportation/automotive.txt",
       "name": "automotive",
       "description": "Automotive dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./transportation/aviation.txt",
+      "name": "aviation",
+      "description": "Aviation industry dictionary",
       "addWords": false
     }
   ]

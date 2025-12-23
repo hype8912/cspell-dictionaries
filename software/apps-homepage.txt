@@ -1,0 +1,6 @@
+duckduckgo
+gethomepage
+openweathermap
+openweathermapapikey
+weatherapi
+weatherapiapikey

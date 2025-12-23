@@ -1,0 +1,18 @@
+# cspell-tools: keep-case no-split
+
+WGSECRET_KEY
+WGUPGRADE_KEY
+monobook
+pingback
+wgDBname
+wgDBpassword
+wgDBprefix
+wgDBserver
+wgDBssl
+wgDBtype
+wgDBuser
+wgEnotifUserTalk
+wgEnotifWatchlist
+wgImageMagickConvertCommand
+wgstdname
+wgUseImageMagick
