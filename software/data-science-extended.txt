@@ -1,0 +1,13 @@
+# cspell-tools: keep-case no-split
+
+armnn
+cuda
+hwaccel
+nvenc
+ollama
+openvino
+rkmpp
+rknn
+rocm
+vaapi
+vaapi-wsl

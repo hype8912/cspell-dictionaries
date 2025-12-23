@@ -52,6 +52,12 @@
       "addWords": false
     },
     {
+      "path": "./software/data-science-extended.txt",
+      "name": "data-science-extended",
+      "description": "Extended data science terms",
+      "addWords": false
+    },
+    {
       "path": "./software/docker-compose.txt",
       "name": "dockerCompose",
       "description": "Docker compose terms",
