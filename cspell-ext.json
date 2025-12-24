@@ -70,7 +70,7 @@
       "addWords": false
     },
     {
-      "path": "./software/package-managers.xt",
+      "path": "./software/package-managers.txt",
       "name": "packageManagers",
       "description": "Software package managers dictionary",
       "addWords": false
