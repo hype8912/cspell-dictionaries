@@ -16,7 +16,7 @@ githubcli
 glab
 grype
 hoppr
-jpegotim
+jpegoptim
 kaniko
 karaf
 keytool
