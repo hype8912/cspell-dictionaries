@@ -37,6 +37,7 @@ pgvectors
 requarks
 satmandu
 silkeh
+ticpu
 valkey
 vectorchord
 wikijs
