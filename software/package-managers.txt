@@ -67,7 +67,7 @@ mdnf
 microdnf
 micromamba
 miniforge
-minipac
+minpac
 necro
 netpkg
 nickblah
