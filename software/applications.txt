@@ -1,6 +1,6 @@
-aquasecurity
-amazoncorretto
+anchore
 antora
+aquasecurity
 boto
 certutil
 chgrp
@@ -43,7 +43,6 @@ tanzu
 temurin
 terrat
 terrateamio
-tensorstore
 tzdata
 userdel
 valkey

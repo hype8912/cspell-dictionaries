@@ -34,6 +34,12 @@
       "addWords": false
     },
     {
+      "path": "./software/apps-homebrew.txt",
+      "name": "applicationsHomebrew",
+      "description": "Homebrew application dictionary",
+      "addWords": false
+    },
+    {
       "path": "./software/apps-homepage.txt",
       "name": "applicationsHomepage",
       "description": "Homepage application dictionary",
@@ -64,6 +70,12 @@
       "addWords": false
     },
     {
+      "path": "./software/java-extended.txt",
+      "name": "java-ext",
+      "description": "Java programming language extended terms",
+      "addWords": false
+    },
+    {
       "path": "./software/os-distro-names.txt",
       "name": "osDistroNames",
       "description": "Operating systems and distribution names",
@@ -79,6 +91,18 @@
       "path": "./software/programming-languages.txt",
       "name": "programmingLanguages",
       "description": "Software programming languages dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/python-extended.txt",
+      "name": "python-ext",
+      "description": "Python programming language extended dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/software-terms-extended.txt",
+      "name": "softwareTerms-ext",
+      "description": "Software terms extended dictionary",
       "addWords": false
     },
     {
