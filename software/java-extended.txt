@@ -1,4 +1,10 @@
 # cspell-tools: keep-case no-split
 
-changeit
 Djavax
+changeit
+destkeystore
+deststorepass
+importkeystore
+noprompt
+srckeystore
+srcstorepass

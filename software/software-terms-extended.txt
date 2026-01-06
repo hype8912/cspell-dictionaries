@@ -2,5 +2,6 @@
 
 cacerts
 enablerepo
+mirrorlist
 noconfirm
 tsflags

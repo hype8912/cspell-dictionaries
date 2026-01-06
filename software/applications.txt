@@ -35,6 +35,7 @@ runmqakm
 semgrep
 shellcheck
 skopeo
+smallstep
 stepcli
 supervisely
 syft

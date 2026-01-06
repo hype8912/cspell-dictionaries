@@ -76,6 +76,12 @@
       "addWords": false
     },
     {
+      "path": "./software/os-distro-linux.txt",
+      "name": "osDistroLinux",
+      "description": "Operating systems and distribution names and commands for Linux",
+      "addWords": false
+    },
+    {
       "path": "./software/os-distro-names.txt",
       "name": "osDistroNames",
       "description": "Operating systems and distribution names",
