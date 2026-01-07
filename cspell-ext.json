@@ -52,6 +52,12 @@
       "addWords": false
     },
     {
+      "path": "./software/apps-megalinter.txt",
+      "name": "applicationsMegalinter",
+      "description": "Megalinter application dictionary",
+      "addWords": false
+    },
+    {
       "path": "./software/containers.txt",
       "name": "dockerContainers",
       "description": "Docker container terms",

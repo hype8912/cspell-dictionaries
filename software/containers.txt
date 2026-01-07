@@ -33,6 +33,7 @@ jfxs
 jitesoft
 louislam
 lscr.io
+megalinter-dotnetweb
 nojaf
 pgadmin
 pgvectors

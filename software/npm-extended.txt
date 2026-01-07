@@ -1,2 +1,4 @@
 corepack
+expressjs
+nodejsscan
 nodesource
