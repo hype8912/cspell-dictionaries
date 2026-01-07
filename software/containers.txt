@@ -1,4 +1,5 @@
 acgetchell
+aldanial
 amazoncorretto
 analogj
 badouralix
@@ -34,6 +35,7 @@ jitesoft
 louislam
 lscr.io
 megalinter-dotnetweb
+mschuette
 nojaf
 pgadmin
 pgvectors

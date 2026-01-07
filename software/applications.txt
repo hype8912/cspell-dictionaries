@@ -4,8 +4,11 @@ antora
 aquasecurity
 arcgis
 boto
+buildah
+cdxgen
 certutil
 chgrp
+choppr
 clamav
 cloudsmith
 cyclonedx
@@ -13,6 +16,7 @@ devskim
 enablehrefrewrite
 falco
 falcosecurity
+femto
 findutils
 fonts-dejavu-core
 freshclam
@@ -50,9 +54,12 @@ shellcheck
 skopeo
 smallstep
 sonatype
+sonarqube
 sourcegraph
 spectrocloud
+sphinx
 stepcli
+stfg
 supervisely
 syft
 systeminfo

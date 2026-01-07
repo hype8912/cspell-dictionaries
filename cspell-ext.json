@@ -8,6 +8,12 @@
   ],
   "dictionaryDefinitions": [
     {
+      "path": "./general/en-us-extended.txt",
+      "name": "en_us-ext",
+      "description": "Extended English US dictionary",
+      "addWords": false
+    },
+    {
       "path": "./general/filetypes-extended.txt",
       "name": "filetypes-ext",
       "description": "Extended file types dictionary",
@@ -17,6 +23,12 @@
       "path": "./general/government-terms.txt",
       "name": "governmentTerms",
       "description": "Government terms dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/ada-extended.txt",
+      "name": "ada-ext",
+      "description": "Extended Ada Language dictionary",
       "addWords": false
     },
     {
@@ -65,6 +77,12 @@
       "path": "./software/containers.txt",
       "name": "dockerContainers",
       "description": "Docker container terms",
+      "addWords": false
+    },
+    {
+      "path": "./software/cpp-extended.txt",
+      "name": "cpp-ext",
+      "description": "Extended C++ Language dictionary",
       "addWords": false
     },
     {
@@ -140,6 +158,12 @@
       "addWords": false
     },
     {
+      "path": "./software/software-terms-slang.txt",
+      "name": "softwareTerms-slang",
+      "description": "Software terms slang dictionary",
+      "addWords": false
+    },
+    {
       "path": "./transportation/automotive.txt",
       "name": "automotive",
       "description": "Automotive dictionary",
@@ -149,6 +173,12 @@
       "path": "./transportation/aviation.txt",
       "name": "aviation",
       "description": "Aviation industry dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./transportation/transportation-general.txt",
+      "name": "transportation-gen",
+      "description": "Transportation general dictionary",
       "addWords": false
     }
   ]

@@ -6,8 +6,10 @@ DOCA
 RADEON
 armnn
 cuda
+devstral
 hwaccel
 luminoso
+minilm
 nvenc
 ollama
 openvino

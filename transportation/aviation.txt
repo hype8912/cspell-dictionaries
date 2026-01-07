@@ -1,1 +1,13 @@
+# cspell-tools: keep-case no-split
+
+CCDL
+CTOL
+FCIBIT
+FCRM
+MCVAR
+STOVL
+VMCA
+VMCB
+VMCC
+datapump
 effectivity

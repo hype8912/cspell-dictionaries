@@ -1,9 +1,15 @@
 # cspell-tools: keep-case no-split
 
+CDRL
+CISA
+DISA
+DODAF
+DFAR
 ECCN
 EAR99
 GPDR
+SSDF
+TPPI
 Sarbanes
 Sarbanes-Oxley
-TPPI
 recordkeeping

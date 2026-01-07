@@ -1,4 +1,6 @@
+corejs
 corepack
 expressjs
 nodejsscan
 nodesource
+zepto
