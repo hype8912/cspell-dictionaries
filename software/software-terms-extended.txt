@@ -1,7 +1,12 @@
 # cspell-tools: keep-case no-split
 
+GPGKEY
+GPGKEYS
+awsregion
 cacerts
 enablerepo
+gpgcheck
 mirrorlist
 noconfirm
+scip
 tsflags

@@ -1,8 +1,13 @@
 # cspell-tools: keep-case no-split
 
+AMDGPU
+CUDA
+DOCA
+RADEON
 armnn
 cuda
 hwaccel
+luminoso
 nvenc
 ollama
 openvino

@@ -70,9 +70,27 @@
       "addWords": false
     },
     {
+      "path": "./software/dotnet-extended.txt",
+      "name": "dotnet-ext",
+      "description": "Extended .NET Language dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/golang-extended.txt",
+      "name": "golang-ext",
+      "description": "Extended Go Language dictionary",
+      "addWords": false
+    },
+    {
       "path": "./software/java-extended.txt",
       "name": "java-ext",
       "description": "Java programming language extended terms",
+      "addWords": false
+    },
+    {
+      "path": "./software/npm-extended.txt",
+      "name": "npm-ext",
+      "description": "Node NPM extended terms",
       "addWords": false
     },
     {

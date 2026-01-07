@@ -5,7 +5,9 @@ amazonlinux
 arcaos
 archlinux
 artix
+artixlinux
 asahi
+athenaos
 bluestar
 clearlinux
 deepin

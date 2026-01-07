@@ -1,10 +1,15 @@
 # cspell-tools: keep-case no-split
 
+JITPACK
+JOGAMP
 Djavax
 changeit
+corretto
 destkeystore
 deststorepass
+geotools
 importkeystore
+jcenter
 noprompt
 srckeystore
 srcstorepass

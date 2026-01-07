@@ -1,6 +1,20 @@
 # cspell-tools: keep-case no-split
 
+ELREPO
+EPEL
+OFED
+RDOPROJECT
+RPMFORGE
+RPMFUSION
+RPMVERBOSITY
+basearch
+countme
+elrepo
 enableplugin
+metalink
 nodocs
 noplugins
+ofed
+openh264
+releasever
 systemd-cryptenroll
