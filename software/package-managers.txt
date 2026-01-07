@@ -94,6 +94,8 @@ pacstall
 paket
 parn
 paru
+pear
+pearrc
 petget
 pipenv
 pipflow

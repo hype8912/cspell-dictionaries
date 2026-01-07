@@ -2,7 +2,10 @@
 
 JITPACK
 JOGAMP
+Dhttp
+Dhttps
 Djavax
+Dproxy
 changeit
 corretto
 destkeystore
