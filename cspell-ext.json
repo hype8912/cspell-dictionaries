@@ -176,7 +176,7 @@
       "addWords": false
     },
     {
-      "path": "./transportation/transportation-general.txt",
+      "path": "./transportation/general.txt",
       "name": "transportation-gen",
       "description": "Transportation general dictionary",
       "addWords": false
