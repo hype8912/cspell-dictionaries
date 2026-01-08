@@ -25,6 +25,8 @@ githubcli
 glab
 grype
 hoppr
+ibmdb2
+informix
 jpegoptim
 kaniko
 karaf
@@ -34,10 +36,13 @@ libcloud
 liquibase
 localedef
 mlnx
+msidxs
+msword
 mulesoft
 neotechnology
 netbase
 netbeans
+netezzadbms
 nextclade
 opensearch
 opentofu
@@ -46,6 +51,7 @@ ovirt
 puppetlabs
 pymarkdown
 qnap
+qunect
 regclient
 regctl
 runmqakm
@@ -66,10 +72,12 @@ syft
 systeminfo
 tanzu
 temurin
+teradata
 terrat
 terrateamio
 tzdata
 userdel
+valentina
 valkey
 veracode
 wgetrc

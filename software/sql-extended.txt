@@ -1,0 +1,9 @@
+# cspell-tools: keep-case no-split
+
+dbmsadsn
+dbmslpcn
+dbmsrpcn
+dbmssocn
+dbmsspxn
+dbmsvinn
+dbnmpntw

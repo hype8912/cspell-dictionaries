@@ -1,6 +1,3 @@
 # cspell-tools: keep-case no-split
 
-msvcm90
-msvcp90
-msvcr90
-wavenumber
+writeIntopicBar

@@ -38,6 +38,12 @@
       "addWords": false
     },
     {
+      "path": "./software/apps-adobe-robohelp.txt",
+      "name": "applicationsAdobeRobohelp",
+      "description": "Adobe Robohelp application dictionary",
+      "addWords": false
+    },
+    {
       "path": "./software/apps-gitlab.txt",
       "name": "applicationsGitlab",
       "description": "GitLab application dictionary",
@@ -161,6 +167,18 @@
       "path": "./software/software-terms-slang.txt",
       "name": "softwareTerms-slang",
       "description": "Software terms slang dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/sql-extended.txt",
+      "name": "sql-ext",
+      "description": "Extended dictionary for SQL terms",
+      "addWords": false
+    },
+    {
+      "path": "./software/win32-extended.txt",
+      "name": "win32-ext",
+      "description": "Extended dictionary for Win32 terms",
       "addWords": false
     },
     {
