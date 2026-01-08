@@ -58,6 +58,7 @@ sonarqube
 sourcegraph
 spectrocloud
 sphinx
+sqlce
 stepcli
 stfg
 supervisely
@@ -70,6 +71,7 @@ terrateamio
 tzdata
 userdel
 valkey
+veracode
 wgetrc
 wincred
 xpra

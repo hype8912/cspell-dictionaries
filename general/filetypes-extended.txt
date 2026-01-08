@@ -2,5 +2,6 @@ adoc
 containerenv
 mkdn
 rdoc
+resx
 vhdx
 vxprj

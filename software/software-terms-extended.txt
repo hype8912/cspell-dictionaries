@@ -3,6 +3,7 @@
 GIT_SSL_CAINFO
 GPGKEY
 GPGKEYS
+MVVM
 airgap
 airgapped
 awsregion
@@ -15,10 +16,14 @@ mirrorlist
 noconfirm
 peta
 pico
+regularexpressions
 scip
 sectools
 sslcainfo
 tera
 tsflags
+visualbasic
 yotta
+yottabyte
 zetta
+zettabyte
