@@ -2,4 +2,7 @@
 
 PYTHONDONTWRITEBYTECODE
 PYTHONUNBUFFERED
+PYTHONUTF
 fastmcp
+pymarkdownlnt
+tomlcheck

@@ -45,4 +45,5 @@ silkeh
 ticpu
 valkey
 vectorchord
+wagoodman
 wikijs

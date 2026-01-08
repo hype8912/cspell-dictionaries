@@ -10,6 +10,7 @@ devstral
 hwaccel
 luminoso
 minilm
+mixtral
 nvenc
 ollama
 openvino
