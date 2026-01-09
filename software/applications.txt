@@ -28,6 +28,7 @@ hopctl
 hoppr
 ibmdb2
 informix
+javacpl
 jpegoptim
 kaniko
 karaf
@@ -86,6 +87,7 @@ valkey
 veracode
 wgetrc
 wincred
+xcopy
 xpra
 yamlshell
 zstd

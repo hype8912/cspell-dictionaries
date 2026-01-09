@@ -1,5 +1,7 @@
 # cspell-tools: keep-case no-split
 
+ACSG
+AFTO
 CDRL
 CISA
 DISA

@@ -2,4 +2,5 @@
 
 ASIC
 ASME
+ASSY
 ESDS

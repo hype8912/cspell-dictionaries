@@ -1,7 +1,12 @@
 adoc
 containerenv
+dgml
+licx
 mkdn
 rdoc
 resx
 vhdx
+vsdoc
+vsmdi
 vxprj
+xlsb

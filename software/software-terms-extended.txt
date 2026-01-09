@@ -1,5 +1,6 @@
 # cspell-tools: keep-case no-split
 
+AMQP
 GIT_SSL_CAINFO
 GPGKEY
 GPGKEYS
@@ -17,6 +18,7 @@ enablerepo
 giga
 gpgcheck
 kilobytespersecond
+launchable
 mirrorlist
 noconfirm
 peta

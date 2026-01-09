@@ -1,5 +1,6 @@
 # cspell-tools: keep-case no-split
 
+FILEGROWTH
 dbmsadsn
 dbmslpcn
 dbmsrpcn
@@ -7,3 +8,5 @@ dbmssocn
 dbmsspxn
 dbmsvinn
 dbnmpntw
+sp_addrolemember
+sp_changedbowner

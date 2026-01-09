@@ -4,12 +4,19 @@
   "enableGlobDot": true,
   "ignorePaths": [
     "**/.cspell/*",
+    "**/.cspell.json",
     "**/.git/*",
     ".gitattributes",
     ".gitignore",
     ".gitmodules"
   ],
   "dictionaryDefinitions": [
+    {
+      "path": "./general/companies-extended.txt",
+      "name": "companies-ext",
+      "description": "Extended Company names dictionary",
+      "addWords": false
+    },
     {
       "path": "./general/en-us-extended.txt",
       "name": "en_us-ext",
