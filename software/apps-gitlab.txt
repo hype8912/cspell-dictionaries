@@ -1,5 +1,6 @@
 fastzip
 glab
+gtcs
 interruptible
 release-cli
 sarif

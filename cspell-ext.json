@@ -4,7 +4,10 @@
   "enableGlobDot": true,
   "ignorePaths": [
     "**/.cspell/*",
-    "**/.git/*"
+    "**/.git/*",
+    ".gitattributes",
+    ".gitignore",
+    ".gitmodules"
   ],
   "dictionaryDefinitions": [
     {

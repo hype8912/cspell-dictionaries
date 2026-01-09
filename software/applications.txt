@@ -32,6 +32,7 @@ jpegoptim
 kaniko
 karaf
 keytool
+kics
 kubepods
 libbluetooth
 libcloud
