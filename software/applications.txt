@@ -52,6 +52,7 @@ nextclade
 opensearch
 opentofu
 oras
+omniauth
 ovirt
 puppetlabs
 pymarkdown
@@ -59,6 +60,7 @@ qnap
 qunect
 regclient
 regctl
+robohelp
 runmqakm
 semgrep
 shellcheck

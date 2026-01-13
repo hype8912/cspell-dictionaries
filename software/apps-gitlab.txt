@@ -1,6 +1,8 @@
 fastzip
+gitlabduo
 glab
 gtcs
 interruptible
+quickactions
 release-cli
 sarif

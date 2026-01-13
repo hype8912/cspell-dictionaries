@@ -17,6 +17,7 @@ depersist
 enablerepo
 giga
 gpgcheck
+jsonschema
 kilobytespersecond
 launchable
 mirrorlist
