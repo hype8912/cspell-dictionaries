@@ -42,6 +42,8 @@ pgvectors
 requarks
 satmandu
 silkeh
+sundev79
+sunpeek
 ticpu
 valkey
 vectorchord

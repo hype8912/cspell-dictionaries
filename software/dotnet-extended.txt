@@ -92,6 +92,7 @@ oninput
 onpaste
 pinvoke
 ppidl
+proxyaddress
 readerwriter
 referenceassemblies
 reregistrations

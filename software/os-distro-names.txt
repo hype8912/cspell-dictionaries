@@ -1,6 +1,7 @@
 aclemons
 aerynos
 almalinux
+alpinelinux
 amazonlinux
 arcaos
 archlinux
@@ -17,6 +18,7 @@ distros
 distroware
 esolang
 eurolinux
+funtoo
 garuda
 kinoite
 mageia

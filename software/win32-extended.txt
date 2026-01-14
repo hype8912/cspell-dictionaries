@@ -22,6 +22,7 @@ PARAFORMAT2
 PIDL
 configSDDL
 RootSDDL
+addstore
 atlmfc
 cimv2
 cryptui.dll

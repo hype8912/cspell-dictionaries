@@ -43,6 +43,12 @@
     },
     {
       "path": "./software/applications.txt",
+      "name": "software-tools-ext",
+      "description": "Software applications dictionary",
+      "addWords": false
+    },
+    {
+      "path": "./software/applications.txt",
       "name": "softwareApplications",
       "description": "Software applications dictionary",
       "addWords": false

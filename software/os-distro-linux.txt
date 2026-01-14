@@ -9,6 +9,7 @@ RPMFUSION
 RPMVERBOSITY
 Yocto
 basearch
+core.httpup
 countme
 debconf
 elrepo
@@ -18,6 +19,9 @@ nodocs
 noplugins
 ofed
 openh264
+opt.httpup
 releasever
+sslverify
 swid
 systemd-cryptenroll
+xorg.httpup
