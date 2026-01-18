@@ -12,6 +12,7 @@ basearch
 core.httpup
 countme
 debconf
+depclean
 elrepo
 enableplugin
 metalink
