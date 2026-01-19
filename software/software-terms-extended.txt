@@ -8,6 +8,7 @@ MVVM
 Tbps
 airgap
 airgapped
+astextplain
 awsregion
 bronto
 cacerts

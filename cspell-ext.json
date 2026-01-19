@@ -117,6 +117,12 @@
     },
     {
       "addWords": false,
+      "description": "Extended git dictionary",
+      "name": "git-ext",
+      "path": "./software/git-extended.txt"
+    },
+    {
+      "addWords": false,
       "description": "Extended Go Language dictionary",
       "name": "golang-ext",
       "path": "./software/golang-extended.txt"

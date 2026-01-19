@@ -1,0 +1,9 @@
+allowdeletebranch
+allowdeletetag
+allowmodifytag
+allownonascii
+allowunannotated
+denycreatebranch
+oneline
+sendemail
+worktree

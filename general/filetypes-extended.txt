@@ -1,7 +1,9 @@
 adoc
+bibtex
 condarc
 containerenv
 dgml
+epub
 licx
 mkdn
 rdoc
