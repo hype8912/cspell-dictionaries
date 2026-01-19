@@ -1,219 +1,219 @@
 {
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
-  "version": "0.2",
+  "dictionaryDefinitions": [
+    {
+      "addWords": false,
+      "description": "Extended Company names dictionary",
+      "name": "companies-ext",
+      "path": "./general/companies-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended English US dictionary",
+      "name": "en_us-ext",
+      "path": "./general/en-us-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended file types dictionary",
+      "name": "filetypes-ext",
+      "path": "./general/filetypes-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Government terms dictionary",
+      "name": "governmentTerms",
+      "path": "./general/government-terms.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended Ada Language dictionary",
+      "name": "ada-ext",
+      "path": "./software/ada-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software applications dictionary",
+      "name": "software-tools-ext",
+      "path": "./software/applications.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software applications dictionary",
+      "name": "softwareApplications",
+      "path": "./software/applications.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Adobe Robohelp application dictionary",
+      "name": "applicationsAdobeRobohelp",
+      "path": "./software/apps-adobe-robohelp.txt"
+    },
+    {
+      "addWords": false,
+      "description": "GitLab application dictionary",
+      "name": "applicationsGitlab",
+      "path": "./software/apps-gitlab.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Home Assistant application dictionary",
+      "name": "applicationsHomeAssistant",
+      "path": "./software/apps-homeassistant.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Homebrew application dictionary",
+      "name": "applicationsHomebrew",
+      "path": "./software/apps-homebrew.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Homepage application dictionary",
+      "name": "applicationsHomepage",
+      "path": "./software/apps-homepage.txt"
+    },
+    {
+      "addWords": false,
+      "description": "MediaWiki application dictionary",
+      "name": "applicationsMediaWiki",
+      "path": "./software/apps-mediawiki.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Megalinter application dictionary",
+      "name": "applicationsMegalinter",
+      "path": "./software/apps-megalinter.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Docker container terms",
+      "name": "dockerContainers",
+      "path": "./software/containers.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended C++ Language dictionary",
+      "name": "cpp-ext",
+      "path": "./software/cpp-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended data science terms",
+      "name": "data-science-extended",
+      "path": "./software/data-science-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Docker compose terms",
+      "name": "dockerCompose",
+      "path": "./software/docker-compose.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended .NET Language dictionary",
+      "name": "dotnet-ext",
+      "path": "./software/dotnet-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended Go Language dictionary",
+      "name": "golang-ext",
+      "path": "./software/golang-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Java programming language extended terms",
+      "name": "java-ext",
+      "path": "./software/java-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Node NPM extended terms",
+      "name": "npm-ext",
+      "path": "./software/npm-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Operating systems and distribution names and commands for Linux",
+      "name": "osDistroLinux",
+      "path": "./software/os-distro-linux.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Operating systems and distribution names",
+      "name": "osDistroNames",
+      "path": "./software/os-distro-names.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software package managers dictionary",
+      "name": "packageManagers",
+      "path": "./software/package-managers.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software programming languages dictionary",
+      "name": "programmingLanguages",
+      "path": "./software/programming-languages.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Python programming language extended dictionary",
+      "name": "python-ext",
+      "path": "./software/python-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software terms extended dictionary",
+      "name": "softwareTerms-ext",
+      "path": "./software/software-terms-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Software terms slang dictionary",
+      "name": "softwareTerms-slang",
+      "path": "./software/software-terms-slang.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended dictionary for SQL terms",
+      "name": "sql-ext",
+      "path": "./software/sql-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended dictionary for Win32 terms",
+      "name": "win32-ext",
+      "path": "./software/win32-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Automotive dictionary",
+      "name": "automotive",
+      "path": "./transportation/automotive.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Aviation industry dictionary",
+      "name": "aviation",
+      "path": "./transportation/aviation.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Transportation general dictionary",
+      "name": "transportation-gen",
+      "path": "./transportation/general.txt"
+    }
+  ],
   "enableGlobDot": true,
   "ignorePaths": [
     "**/.cspell/*",
     "**/.cspell.json",
     "**/.git/*",
-    ".gitattributes",
-    ".gitignore",
-    ".gitmodules"
+    "**/.gitattributes",
+    "**/.gitignore",
+    "**/.gitmodules"
   ],
-  "dictionaryDefinitions": [
-    {
-      "path": "./general/companies-extended.txt",
-      "name": "companies-ext",
-      "description": "Extended Company names dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./general/en-us-extended.txt",
-      "name": "en_us-ext",
-      "description": "Extended English US dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./general/filetypes-extended.txt",
-      "name": "filetypes-ext",
-      "description": "Extended file types dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./general/government-terms.txt",
-      "name": "governmentTerms",
-      "description": "Government terms dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/ada-extended.txt",
-      "name": "ada-ext",
-      "description": "Extended Ada Language dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/applications.txt",
-      "name": "software-tools-ext",
-      "description": "Software applications dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/applications.txt",
-      "name": "softwareApplications",
-      "description": "Software applications dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-adobe-robohelp.txt",
-      "name": "applicationsAdobeRobohelp",
-      "description": "Adobe Robohelp application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-gitlab.txt",
-      "name": "applicationsGitlab",
-      "description": "GitLab application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-homeassistant.txt",
-      "name": "applicationsHomeAssistant",
-      "description": "Home Assistant application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-homebrew.txt",
-      "name": "applicationsHomebrew",
-      "description": "Homebrew application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-homepage.txt",
-      "name": "applicationsHomepage",
-      "description": "Homepage application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-mediawiki.txt",
-      "name": "applicationsMediaWiki",
-      "description": "MediaWiki application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/apps-megalinter.txt",
-      "name": "applicationsMegalinter",
-      "description": "Megalinter application dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/containers.txt",
-      "name": "dockerContainers",
-      "description": "Docker container terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/cpp-extended.txt",
-      "name": "cpp-ext",
-      "description": "Extended C++ Language dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/data-science-extended.txt",
-      "name": "data-science-extended",
-      "description": "Extended data science terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/docker-compose.txt",
-      "name": "dockerCompose",
-      "description": "Docker compose terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/dotnet-extended.txt",
-      "name": "dotnet-ext",
-      "description": "Extended .NET Language dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/golang-extended.txt",
-      "name": "golang-ext",
-      "description": "Extended Go Language dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/java-extended.txt",
-      "name": "java-ext",
-      "description": "Java programming language extended terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/npm-extended.txt",
-      "name": "npm-ext",
-      "description": "Node NPM extended terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/os-distro-linux.txt",
-      "name": "osDistroLinux",
-      "description": "Operating systems and distribution names and commands for Linux",
-      "addWords": false
-    },
-    {
-      "path": "./software/os-distro-names.txt",
-      "name": "osDistroNames",
-      "description": "Operating systems and distribution names",
-      "addWords": false
-    },
-    {
-      "path": "./software/package-managers.txt",
-      "name": "packageManagers",
-      "description": "Software package managers dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/programming-languages.txt",
-      "name": "programmingLanguages",
-      "description": "Software programming languages dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/python-extended.txt",
-      "name": "python-ext",
-      "description": "Python programming language extended dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/software-terms-extended.txt",
-      "name": "softwareTerms-ext",
-      "description": "Software terms extended dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/software-terms-slang.txt",
-      "name": "softwareTerms-slang",
-      "description": "Software terms slang dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./software/sql-extended.txt",
-      "name": "sql-ext",
-      "description": "Extended dictionary for SQL terms",
-      "addWords": false
-    },
-    {
-      "path": "./software/win32-extended.txt",
-      "name": "win32-ext",
-      "description": "Extended dictionary for Win32 terms",
-      "addWords": false
-    },
-    {
-      "path": "./transportation/automotive.txt",
-      "name": "automotive",
-      "description": "Automotive dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./transportation/aviation.txt",
-      "name": "aviation",
-      "description": "Aviation industry dictionary",
-      "addWords": false
-    },
-    {
-      "path": "./transportation/general.txt",
-      "name": "transportation-gen",
-      "description": "Transportation general dictionary",
-      "addWords": false
-    }
-  ]
+  "version": "0.2"
 }
