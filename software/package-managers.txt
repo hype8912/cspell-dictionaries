@@ -36,6 +36,7 @@ denoland
 dlanguage
 dpkg
 elisp-cask
+emerge-webrsync
 eopkg
 equo
 eudrop

@@ -1,4 +1,5 @@
 adoc
+condarc
 containerenv
 dgml
 licx
