@@ -66,8 +66,8 @@ semgrep
 shellcheck
 skopeo
 smallstep
-sonatype
 sonarqube
+sonatype
 sourcegraph
 spectrocloud
 sphinx

@@ -66,8 +66,8 @@ leiningen
 ligo
 lmod
 luarocks
-maximus
 mambaorg
+maximus
 mdnf
 microdnf
 micromamba
@@ -105,11 +105,11 @@ pipflow
 pipx
 pixi
 pjamas
-pkgm
 pkgin
+pkgm
 pkgsrc
-pkgtop
 pkgtool
+pkgtop
 pkgutils
 pkgx
 pkgxdev

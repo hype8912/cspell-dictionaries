@@ -12,8 +12,8 @@ destkeystore
 deststorepass
 geotools
 importkeystore
-jcenter
 javacpl
+jcenter
 noprompt
 srckeystore
 srcstorepass

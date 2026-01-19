@@ -22,8 +22,8 @@ funtoo
 garuda
 kinoite
 mageia
-manjarolinux
 makululinux
+manjarolinux
 metacall
 minix
 nixos

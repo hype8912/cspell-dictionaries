@@ -1,9 +1,9 @@
 # cspell-tools: keep-case no-split
 
 DMOLE43
-IBMDA400
 HMAC
 HMACSHA
+IBMDA400
 MSDASQL
 MSIL
 MSLDAP
@@ -23,23 +23,23 @@ Alachisoft
 BootstrapperEnabled
 BootstrapperPackage
 Browsable
-cTor
 Cloneable
 Codebehind
+cTor
 CustomMarshalers
 DataAdapter
 DataContractSerialization
 Deconstructor
 Diagnoser
 DiagnosticSource
-Fabrikam
 Encrypter
 Enumerables
 Expando
+Fabrikam
+Gainsboro
 Hessiancsharp
 Hijri
 HijriCalendar
-Gainsboro
 IntelliTrace
 IsRecomposable
 Mapi
@@ -53,8 +53,8 @@ RedistList
 Rijndael
 Royale
 SqlKata
-SteveCadwallader
 Steeltoe
+SteveCadwallader
 StringBuilder
 Theraot
 UmAlQuraCalendar
@@ -70,8 +70,8 @@ aspnetdb
 buildtransitive
 cookieless
 crypter
-csidl
 cscompmgd
+csidl
 cswin
 decrypter
 enterprisecache
@@ -107,9 +107,9 @@ tomlyn
 updateable
 vctools
 vfpoledb
+wcfconfigurationsnapshot
 windowsbase
 winrt
-wcfconfigurationsnapshot
 xamarinios
 xamarinmac
 xamarintvos

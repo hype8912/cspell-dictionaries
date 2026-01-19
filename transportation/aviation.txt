@@ -2,8 +2,8 @@
 
 ABDR
 ACAWS
-ACOC
 ACFT
+ACOC
 ADMS
 AERP
 AFCDS
@@ -12,8 +12,8 @@ AITG
 ALLTV
 ANCS
 ANDVT
-ARSP
 ANVIS
+ARSP
 ARWO
 ATCS
 AVCARS
@@ -41,13 +41,13 @@ DAMA
 DEGRD
 DFDR
 DFDRS
+DGPS
 DIRCM
 DITU
 DMDG
+DMIP
 DMIS
 DNWRD
-DGPS
-DMIP
 DSDTS
 DTADS
 ECBU
@@ -91,8 +91,8 @@ LPCR
 LSGI
 LVDT
 LVPS
-MCVAR
 MCDU
+MCVAR
 MFCD
 MRPS
 NAVAID
@@ -102,8 +102,8 @@ NESA
 NVDU
 NVLS
 OVERSPD
-OVRSPEED
 OVHT
+OVRSPEED
 PCDP
 PTFE
 PUAD
@@ -138,8 +138,8 @@ TECU
 TIBS
 TMIT
 TRTS
-TVIB
 TVDL
+TVIB
 UARRSI
 USTS
 VMCA
@@ -170,9 +170,9 @@ demodification
 depreservation
 diplexer
 effectivity
+etool
 exceedance
 exceedances
-etool
 feedthru
 feedthrus
 fireseal
@@ -184,8 +184,8 @@ gunport
 gunstation
 handpump
 havequick
-hitak
 hi-tigue
+hitak
 horsecollar
 huckbolt
 huckrimp
@@ -221,10 +221,10 @@ propulsors
 pushrod
 pushrods
 reformatter
-rosemount
 restrictors
 retorque
 retorquing
+rosemount
 rynglok
 safing
 satcom
