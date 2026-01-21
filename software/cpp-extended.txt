@@ -1,5 +1,6 @@
 # cspell-tools: keep-case no-split
 
+!setguid
 capath
 msvcm90
 msvcp90

@@ -51,6 +51,12 @@
     },
     {
       "addWords": false,
+      "description": "Ansible software application dictionary",
+      "name": "applicationsAnsible",
+      "path": "./software/apps-ansible.txt"
+    },
+    {
+      "addWords": false,
       "description": "GitLab application dictionary",
       "name": "applicationsGitlab",
       "path": "./software/apps-gitlab.txt"
@@ -100,7 +106,7 @@
     {
       "addWords": false,
       "description": "Extended data science terms",
-      "name": "data-science-extended",
+      "name": "data-science-ext",
       "path": "./software/data-science-extended.txt"
     },
     {
@@ -189,6 +195,12 @@
     },
     {
       "addWords": false,
+      "description": "PostgresSQL Database dictionary",
+      "name": "sql-postgres",
+      "path": "./software/sql-postgres.txt"
+    },
+    {
+      "addWords": false,
       "description": "Extended dictionary for Win32 terms",
       "name": "win32-ext",
       "path": "./software/win32-extended.txt"
@@ -219,7 +231,8 @@
     "**/.git/*",
     "**/.gitattributes",
     "**/.gitignore",
-    "**/.gitmodules"
+    "**/.gitmodules",
+    "**/CODEOWNERS"
   ],
   "version": "0.2"
 }

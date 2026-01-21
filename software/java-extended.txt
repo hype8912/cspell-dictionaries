@@ -17,3 +17,6 @@ jcenter
 noprompt
 srckeystore
 srcstorepass
+storepass
+trustcacerts
+truststore

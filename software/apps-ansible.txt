@@ -1,0 +1,7 @@
+# cspell-tools: keep-case no-split
+
+blockinfile
+equalto
+lineinfile
+rejectattr
+selectattr

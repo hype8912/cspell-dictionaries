@@ -1,3 +1,4 @@
+dotenv
 fastzip
 gitlabduo
 glab

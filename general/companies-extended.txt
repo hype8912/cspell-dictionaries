@@ -1,2 +1,5 @@
 
+Anyscale
 Redgate
+Strya
+Venafi

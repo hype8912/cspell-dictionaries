@@ -1,0 +1,17 @@
+# cspell-tools: keep-case no-split
+
+PGHOST
+PGPASSFILE
+PGPASSWORD
+PGSSLROOTCERT
+PGUSER
+cloudnative-pg
+initdb
+libpostgresql
+pg_activity
+pg_cron
+pg_dump
+pg_dumpall
+pg_restore
+pgadmin
+psql

@@ -4,5 +4,9 @@ PYTHONDONTWRITEBYTECODE
 PYTHONUNBUFFERED
 PYTHONUTF
 fastmcp
+flytekitplugins
+pyflyte
 pymarkdownlnt
+pyspellchecker
+selectbox
 tomlcheck
