@@ -6,10 +6,16 @@ Dhttp
 Dhttps
 Djavax
 Dproxy
+Hamcrest
+Logback
+JvmMultifileClass
 changeit
 corretto
+csprng
 destkeystore
 deststorepass
+detekt
+dokka
 geotools
 importkeystore
 javacpl

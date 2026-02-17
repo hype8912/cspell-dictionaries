@@ -1,3 +1,5 @@
+# cspell-tools: keep-case no-split
+
 dotenv
 fastzip
 gitlabduo
@@ -7,3 +9,4 @@ interruptible
 quickactions
 release-cli
 sarif
+spotbugs

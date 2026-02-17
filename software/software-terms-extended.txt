@@ -1,16 +1,21 @@
 # cspell-tools: keep-case no-split
 
+ABAC
 AMQP
+BLUF
 FOSS
 GIT_SSL_CAINFO
 GPGKEY
 GPGKEYS
+MISRA
 MVVM
 OCSP
 OSCAP
 RELP
 RHSA
+RTTS
 UEFI
+Liskov
 Tbps
 airgap
 airgapped
@@ -23,9 +28,11 @@ bronto
 cacerts
 configurator
 configurators
+dataloaders
 datasheet
 depersist
 enablerepo
+exploitability
 giga
 gitops
 gpgcheck
@@ -34,8 +41,10 @@ kilobytespersecond
 launchable
 mirrorlist
 multifactor
+multiplatform
 noconfirm
 osxkeychain
+parallelizable
 passwordless
 peta
 pico
@@ -44,18 +53,21 @@ recomposable
 refetched
 regularexpressions
 reserialize
+resumability
 sboms
 scip
 sectools
 smartcard
 sslcainfo
-subchart
 statefile
+subchart
+subresource
 tera
 tsflags
 uninstallations
 visualbasic
 webdav
+wireframes
 yotta
 yottabyte
 zetta

@@ -1,0 +1,7 @@
+# cspell-tools: keep-case no-split
+
+autodie
+catfile
+filehandles
+hashref
+wantarray

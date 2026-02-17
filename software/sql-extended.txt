@@ -1,6 +1,8 @@
 # cspell-tools: keep-case no-split
 
 FILEGROWTH
+SCHEMABINDING
+SQLOLEDB
 dbmsadsn
 dbmslpcn
 dbmsrpcn

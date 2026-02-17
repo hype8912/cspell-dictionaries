@@ -9,6 +9,7 @@ bitnamicharts
 bridgecrew
 budtmo
 cadvisor
+chainguard
 cloudflared
 containrrr
 ctuning
@@ -17,6 +18,7 @@ curlimages
 danlynn
 demisto
 distroless
+dockerfiles
 dokuwiki
 domjtalbot
 dpage

@@ -15,7 +15,9 @@ choppr
 chrony
 chronyd
 clamav
+clientry
 cloudsmith
+coverity
 cramfs
 cyclonedx
 daemontools
@@ -46,6 +48,7 @@ karaf
 keytool
 kics
 kserve
+kubeconform
 kubeflow
 kubepods
 kuberay
@@ -56,10 +59,12 @@ libmagickcore
 libreswan
 liquibase
 localedef
+matomo
 mlnx
 msidxs
 msword
 mulesoft
+multicurl
 neotechnology
 netbase
 netbeans
@@ -90,6 +95,7 @@ sonatype
 sourcegraph
 spectrocloud
 sphinx
+spotbugs
 sqlce
 ssh-keysign
 stepcli

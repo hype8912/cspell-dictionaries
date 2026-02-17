@@ -27,6 +27,12 @@
     },
     {
       "addWords": false,
+      "description": "ABAP Language dictionary",
+      "name": "abap",
+      "path": "./software/abap.txt"
+    },
+    {
+      "addWords": false,
       "description": "Extended Ada Language dictionary",
       "name": "ada-ext",
       "path": "./software/ada-extended.txt"
@@ -93,6 +99,24 @@
     },
     {
       "addWords": false,
+      "description": "VS Code application dictionary",
+      "name": "applicationsVSCode",
+      "path": "./software/apps-vscode.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Bash extended terms",
+      "name": "bash-ext",
+      "path": "./software/bash-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Batch extended terms",
+      "name": "batch-ext",
+      "path": "./software/batch-extended.txt"
+    },
+    {
+      "addWords": false,
       "description": "Docker container terms",
       "name": "dockerContainers",
       "path": "./software/containers.txt"
@@ -102,6 +126,12 @@
       "description": "Extended C++ Language dictionary",
       "name": "cpp-ext",
       "path": "./software/cpp-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended CSS dictionary",
+      "name": "css-ext",
+      "path": "./software/css-extended.txt"
     },
     {
       "addWords": false,
@@ -135,9 +165,21 @@
     },
     {
       "addWords": false,
+      "description": "Extended HTML elements dictionary",
+      "name": "html-ext",
+      "path": "./software/html-extended.txt"
+    },
+    {
+      "addWords": false,
       "description": "Java programming language extended terms",
       "name": "java-ext",
       "path": "./software/java-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Kotlin programming language extended terms",
+      "name": "kotlin-ext",
+      "path": "./software/kotlin-extended.txt"
     },
     {
       "addWords": false,
@@ -165,6 +207,12 @@
     },
     {
       "addWords": false,
+      "description": "Perl language dictionary",
+      "name": "perl",
+      "path": "./software/perl.txt"
+    },
+    {
+      "addWords": false,
       "description": "Software programming languages dictionary",
       "name": "programmingLanguages",
       "path": "./software/programming-languages.txt"
@@ -174,6 +222,18 @@
       "description": "Python programming language extended dictionary",
       "name": "python-ext",
       "path": "./software/python-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "R programming language extended dictionary",
+      "name": "r-ext",
+      "path": "./software/r-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Rust programming language extended dictionary",
+      "name": "rust-ext",
+      "path": "./software/rust-extended.txt"
     },
     {
       "addWords": false,
@@ -201,9 +261,27 @@
     },
     {
       "addWords": false,
+      "description": "Extended dictionary for swift programming language",
+      "name": "swift-ext",
+      "path": "./software/swift-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Extended dictionary for web services terms",
+      "name": "web-services-ext",
+      "path": "./software/web-services-extended.txt"
+    },
+    {
+      "addWords": false,
       "description": "Extended dictionary for Win32 terms",
       "name": "win32-ext",
       "path": "./software/win32-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "Yaml dictionary terms",
+      "name": "yaml",
+      "path": "./software/yaml.txt"
     },
     {
       "addWords": false,
@@ -232,7 +310,9 @@
     "**/.gitattributes",
     "**/.gitignore",
     "**/.gitmodules",
+    "**/*megalinter_file_names_cspell.txt",
     "**/CODEOWNERS"
   ],
+  "useGitignore": true,
   "version": "0.2"
 }

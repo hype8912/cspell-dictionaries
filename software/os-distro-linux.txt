@@ -32,7 +32,9 @@ gpasswd
 grub2-mkconfig
 iburst
 kdump
+keepcache
 lcredit
+libpq
 localpkg_gpgcheck
 logind
 lremovexattr

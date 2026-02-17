@@ -1,6 +1,9 @@
+backstopjs
 corejs
-corepack
 expressjs
+modelcontextprotocol
 nodejsscan
 nodesource
+securityheaders
+supabase
 zepto

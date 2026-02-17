@@ -1,19 +1,23 @@
 # cspell-tools: keep-case no-split
 
 AMDGPU
-CUDA
 DOCA
 RADEON
+agentic
 armnn
+clineignore
 contextionary
 cuda
 devstral
 friendliai
 huggingface
 hwaccel
+generativeai
 jinaai
 luminoso
 minilm
+mistral
+mistralai
 mixtral
 nvenc
 octoai

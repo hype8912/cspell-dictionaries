@@ -1,6 +1,11 @@
 accessibilities
+centricity
 cheatsheet
 dewpoint
+exfiltration
+interoperating
+multisession
+post-mortems
 reinstantiation
 reprovision
 ruggedized

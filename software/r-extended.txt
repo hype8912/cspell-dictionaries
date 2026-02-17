@@ -1,0 +1,27 @@
+# cspell-tools: keep-case no-split
+
+backingfile
+bigmemory
+covr
+descriptorfile
+dopar
+dplyr
+ggplot
+ggsave
+knitr
+lintr
+lmer
+lubridate
+profvis
+purrr
+readr
+renv
+rmarkdown
+roxygen
+rscript
+testthat
+tibble
+tibbles
+tidyverse
+usethis
+viridis

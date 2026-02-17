@@ -2,3 +2,22 @@
 
 GOPROXY
 GOSUBDB
+coverprofile
+errgroup
+gobreaker
+gocyclo
+godoc
+gofmt
+golangci-lint
+gomock
+gonic
+gorm
+gosec
+healthz
+mapstructure
+oteltrace
+promhttp
+readyz
+sqlc
+testset
+zerolog

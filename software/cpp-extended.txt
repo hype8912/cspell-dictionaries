@@ -2,7 +2,14 @@
 
 !setguid
 capath
+cppcheck
+ctest
+flamegraph
 msvcm90
 msvcp90
 msvcr90
+nullopt
 wavenumber
+wconversion
+wextra
+wpedantic
