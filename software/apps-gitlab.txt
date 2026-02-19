@@ -1,12 +1,17 @@
 # cspell-tools: keep-case no-split
 
+accesskey
 dotenv
 fastzip
 gitlabduo
 glab
 gtcs
 interruptible
+pathstyle
 quickactions
+regionendpoint
 release-cli
 sarif
+secretkey
+sidekiq
 spotbugs

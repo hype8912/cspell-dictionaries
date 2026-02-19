@@ -105,6 +105,12 @@
     },
     {
       "addWords": false,
+      "description": "WikiJS application dictionary",
+      "name": "applicationsWikijs",
+      "path": "./software/apps-wikijs.txt"
+    },
+    {
+      "addWords": false,
       "description": "Bash extended terms",
       "name": "bash-ext",
       "path": "./software/bash-extended.txt"

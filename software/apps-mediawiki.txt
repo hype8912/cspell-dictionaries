@@ -14,5 +14,6 @@ wgDBuser
 wgEnotifUserTalk
 wgEnotifWatchlist
 wgImageMagickConvertCommand
+wgSmtp
 wgstdname
 wgUseImageMagick

@@ -7,7 +7,6 @@ agentic
 armnn
 clineignore
 contextionary
-cuda
 devstral
 friendliai
 huggingface

@@ -19,6 +19,7 @@ danlynn
 demisto
 distroless
 dockerfiles
+dockurr
 dokuwiki
 domjtalbot
 dpage
@@ -34,6 +35,7 @@ gethomepage
 gitea
 gnujaos
 go-containerregistry
+henrygd
 homeassistant
 immich
 ironbank

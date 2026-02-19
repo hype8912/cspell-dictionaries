@@ -5,6 +5,7 @@ aquasecurity
 arcgis
 audisp
 authconfig
+beszel
 boto
 buildah
 cdxgen
@@ -22,6 +23,7 @@ cramfs
 cyclonedx
 daemontools
 devskim
+dozzle
 dracut
 enablehrefrewrite
 falco
@@ -78,6 +80,7 @@ ovirt
 puppetlabs
 pwck
 pymarkdown
+quicksync
 qnap
 qunect
 regclient
@@ -87,6 +90,7 @@ runmqakm
 seaweedfs
 semgrep
 shellcheck
+sidekiq
 skopeo
 sles
 smallstep

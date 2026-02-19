@@ -5,6 +5,7 @@ capath
 cppcheck
 ctest
 flamegraph
+hwaccel
 msvcm90
 msvcp90
 msvcr90

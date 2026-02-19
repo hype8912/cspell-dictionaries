@@ -13,5 +13,7 @@ pg_cron
 pg_dump
 pg_dumpall
 pg_restore
+pg_trgm
 pgadmin
+plpgsql
 psql

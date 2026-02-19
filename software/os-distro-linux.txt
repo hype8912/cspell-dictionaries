@@ -70,6 +70,7 @@ smartcardaction
 sslverify
 swid
 sysadm_u
+sysclk
 systemd-cryptenroll
 systemd-sulogin-shell
 vsftpd
