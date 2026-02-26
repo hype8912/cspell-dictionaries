@@ -7,6 +7,8 @@ interoperating
 multisession
 post-mortems
 reinstantiation
+renderable
+reprioritize
 reprovision
 ruggedized
 uneffected

@@ -5,6 +5,7 @@ aquasecurity
 arcgis
 audisp
 authconfig
+authentik
 beszel
 boto
 buildah
@@ -39,6 +40,7 @@ githubcli
 glab
 groot
 grype
+homebox
 hopctl
 hoppr
 ibmdb2
@@ -61,6 +63,7 @@ libmagickcore
 libreswan
 liquibase
 localedef
+mathworks
 matomo
 mlnx
 msidxs
@@ -77,6 +80,7 @@ opensearch
 opentofu
 oras
 ovirt
+polyspace
 puppetlabs
 pwck
 pymarkdown
@@ -94,6 +98,8 @@ sidekiq
 skopeo
 sles
 smallstep
+smartmon
+smartmontools
 sonarqube
 sonatype
 sourcegraph

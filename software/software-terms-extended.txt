@@ -2,11 +2,14 @@
 
 ABAC
 AMQP
+ASVS
 BLUF
+CMDB
 FOSS
 GIT_SSL_CAINFO
 GPGKEY
 GPGKEYS
+HSTS
 MISRA
 MVVM
 OCSP
@@ -14,6 +17,7 @@ OSCAP
 RELP
 RHSA
 RTTS
+SIEM
 UEFI
 Liskov
 Tbps
@@ -66,11 +70,13 @@ subchart
 subresource
 tera
 tsflags
+unifi
 uninstallations
 visualbasic
 webdav
 wireframes
 yotta
 yottabyte
+yubikey
 zetta
 zettabyte

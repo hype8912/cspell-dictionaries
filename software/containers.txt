@@ -35,6 +35,7 @@ gethomepage
 gitea
 gnujaos
 go-containerregistry
+goauthentik
 henrygd
 homeassistant
 immich
@@ -57,6 +58,7 @@ satmandu
 silkeh
 sundev79
 sunpeek
+sysadminsmedia
 ticpu
 valkey
 vectorchord

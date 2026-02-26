@@ -43,6 +43,7 @@ mypyc
 nanoarrow
 numpydoc
 objgraph
+pagesizes
 panflute
 pydata-sphinx
 pyenchant

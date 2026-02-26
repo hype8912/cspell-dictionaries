@@ -1,6 +1,10 @@
+
+accountid
 duckduckgo
 gethomepage
 openweathermap
 openweathermapapikey
+tunnelid
+unifi
 weatherapi
 weatherapiapikey
