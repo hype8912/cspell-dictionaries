@@ -6,6 +6,7 @@ arcgis
 audisp
 authconfig
 authentik
+bcompare
 beszel
 boto
 buildah
@@ -35,6 +36,7 @@ findutils
 firewalld
 fonts-dejavu-core
 freshclam
+geckodriver
 gemnasium
 githubcli
 glab
@@ -56,6 +58,7 @@ kubeconform
 kubeflow
 kubepods
 kuberay
+laikaboss
 lakefs
 libbluetooth
 libcloud
@@ -63,6 +66,7 @@ libmagickcore
 libreswan
 liquibase
 localedef
+lync
 mathworks
 matomo
 mlnx
@@ -76,10 +80,12 @@ netbeans
 netezzadbms
 nextclade
 omniauth
+openbao
 opensearch
 opentofu
 oras
 ovirt
+pingfederate
 polyspace
 puppetlabs
 pwck

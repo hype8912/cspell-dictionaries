@@ -18,6 +18,7 @@ RELP
 RHSA
 RTTS
 SIEM
+TOTP
 UEFI
 Liskov
 Tbps
@@ -27,6 +28,7 @@ apikey
 appstore
 astextplain
 autogeneration
+autopost
 awsregion
 bronto
 cacerts
@@ -41,6 +43,7 @@ giga
 gitops
 gpgcheck
 jsonschema
+kerberoasting
 kilobytespersecond
 launchable
 mirrorlist
@@ -55,6 +58,7 @@ passwordless
 peta
 pico
 pooler
+postback
 recomposable
 refetched
 regularexpressions
@@ -66,8 +70,10 @@ sectools
 smartcard
 sslcainfo
 statefile
+streamable
 subchart
 subresource
+subtyping
 tera
 tsflags
 unifi

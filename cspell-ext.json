@@ -171,6 +171,12 @@
     },
     {
       "addWords": false,
+      "description": "Helm package dictionary",
+      "name": "helm",
+      "path": "./software/helm.txt"
+    },
+    {
+      "addWords": false,
       "description": "Extended HTML elements dictionary",
       "name": "html-ext",
       "path": "./software/html-extended.txt"
@@ -282,6 +288,12 @@
       "description": "Extended dictionary for Win32 terms",
       "name": "win32-ext",
       "path": "./software/win32-extended.txt"
+    },
+    {
+      "addWords": false,
+      "description": "XML dictionary terms",
+      "name": "xml",
+      "path": "./software/xml.txt"
     },
     {
       "addWords": false,

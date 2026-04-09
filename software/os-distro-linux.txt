@@ -15,6 +15,7 @@ basearch
 chage
 chcon
 cleandupes
+copr
 core.httpup
 countme
 crond
@@ -28,6 +29,8 @@ enableplugin
 enablerequiresmartcard
 enablesmartcard
 faillock
+fedorainfra
+fedorainfracloud
 gpasswd
 grub2-mkconfig
 iburst

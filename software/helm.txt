@@ -1,0 +1,20 @@
+# cspell-tools: keep-case no-split
+
+antrea
+backube
+crossplane
+dapr
+dgraph
+emberstack
+goharbor
+jaegertracing
+kafbat
+kiali
+kratix
+kubereboot
+kyverno
+localstack
+openbao
+rimusz
+sigstore
+stakater
